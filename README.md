@@ -39,7 +39,7 @@ If you prefer running it from the command line, follow these steps:
 
 1. Open your terminal (Command Prompt or PowerShell) and navigate to the project directory:
    ```bash
-   cd C:\Users\hglya\.gemini\antigravity\scratch\PanierEcommerce_Java
+   cd PanierEcommerce_Java
    ```
 
 2. Create a compilation output directory:
